@@ -1,0 +1,247 @@
+body{
+background: #f4f4f4;
+margin: 0px;
+}
+
+
+.link-title {
+
+    text-decoration: none;
+    font-size: 24px;
+    color:#444444;
+  
+
+
+}
+
+
+.page-heading {
+
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.container{
+width: autox;
+margin: 0 auto;
+background: #FFF;
+}
+
+.header
+{
+  padding: 45px 0px 20px 40px;
+  border: 2px solid black;
+  text-align: center;
+
+}
+.menu
+{
+  background:#1f8faf;
+  padding: 6px 0 6px 40px;
+
+}
+
+
+
+.menu a {
+
+    color: #c5d6db;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Arial Narrow", "Myriad Pro";
+}
+
+.menu a:hover {
+
+    color:#ecf2f3;
+
+
+}
+aside {
+
+    float: left;
+    width: 120px;
+    padding: 30px 0 0 40px;
+
+}
+
+h1 {
+
+    margin: 0px;
+    color:#869843;
+    font-size: 24px;
+    font-family: "Arial Narrow", "Myriad Pro";
+    font-weight: normal;
+
+}
+
+h2 {
+
+    color:#3b7687;
+    font-size: 15px;
+    margin: 20px 0 5px 0;
+
+}
+
+.main {
+
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0;
+    color: #444444;
+    font-family: "Georgia";
+    font-size: 20px;
+    line-height: 40px;
+    text-emphasis: justify;
+
+
+}
+.main a:hover {
+
+    color: #444444;
+
+}
+
+#home-image img {
+
+    width: 60%;
+    height: 30%;
+
+}
+
+
+
+
+
+footer {
+
+    padding: 6px 40px 6px 40px;
+    background: #d6d6d6;
+    font-family: "Lucida Sans Unicode";
+    color: #444444;
+    font-size: 11px;
+    text-decoration: right;
+    clear: both;
+
+}
+
+footer a {
+    text-decoration: none;
+    color:#262626;
+
+
+}
+
+.separator {
+
+    color:#FFFFFF;
+    font-size: 11px;
+
+
+}
+
+
+
+/****************About Page Styles *****************/
+
+
+
+#about-page #home-image img {
+
+    width: 70%;
+    float: left;
+    margin-bottom: 20px;
+
+}
+
+#about-page #profile-info {
+
+    float: right;
+    width: 20%;
+    margin: 5px;
+
+
+}
+
+#about-page .description {
+
+    clear: both;
+
+
+}
+
+
+
+/***************Contact Page ********************/
+
+#contact #form {
+
+    width: 500px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    box-shadow: 0px 9px 13px 5px;
+    border-radius: 5px;
+
+
+}
+
+
+
+#contact #form input {
+
+    width: 100%;
+    border-radius: 5px;
+    height: 20px;
+    background: #D6D6D6;
+
+}
+
+#contact #form #message {
+    width: 100%;
+    border-radius: 5px;
+    background: #D6D6D6;
+
+}
+
+#contact #form #submit {
+    height: 30px;
+    background: rgb(59, 118, 135);
+
+}
+.fa {
+  padding: 6px;
+  font-size: 11px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
