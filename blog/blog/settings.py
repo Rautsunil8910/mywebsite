@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-oy_66o#)-uwctyzu5aizy81x(z3e91=s^85sp-=u73_+%&+=z0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.1.0.0','www.sunilraut.com.np']
+ALLOWED_HOSTS = ['www.sunilraut.com.np']
 
 # Use HTTPS
 SECURE_SSL_REDIRECT = True
